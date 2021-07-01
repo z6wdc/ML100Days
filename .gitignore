@@ -11,5 +11,5 @@
 .DS_Store
 
 *.csv
-
+*.csv.gz
 venv
