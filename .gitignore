@@ -10,6 +10,8 @@
 
 .DS_Store
 
+.ipynb_checkpoints
+
 *.csv
 *.csv.gz
 venv

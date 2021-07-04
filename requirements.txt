@@ -1,4 +1,8 @@
+jupyterlab
+
 pandas
 requests
 Pillow
 matplotlib
+sklearn
+seaborn
